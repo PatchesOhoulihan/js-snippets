@@ -1,0 +1,29 @@
+{
+  "name": "eventhandler-tests",
+  "version": "0.0.1",
+  "description": "plain js snippets for eventhandling",
+  "main": "none",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatchesOhoulihan/js-snippets.git"
+  },
+  "keywords": [
+    "plain",
+    "js",
+    "eventhandling"
+  ],
+  "author": "schmalte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatchesOhoulihan/js-snippets/issues"
+  },
+  "homepage": "https://github.com/PatchesOhoulihan/js-snippets#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.15.3"
+  }
+}
