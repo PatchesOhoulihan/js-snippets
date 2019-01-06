@@ -1,3 +1,7 @@
-import "./style/index.scss";
+//Import styles
+import "./style/index";
+
+
+import "./src/pageload";
 
 console.log('Hello World');
